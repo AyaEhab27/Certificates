@@ -17,7 +17,8 @@ Each certification is stored in its own folder with any related documents, such 
   Completed training on web development using **HTML, CSS, JavaScript, Apache**, **MySQL**, and **PHP**.  
   Gained hands-on experience in open-source collaboration, project structuring, and basic backend tools.
 
-📁 See full details in [`iti-open-source-2024/`](./iti-open-source-2024/)
+📁 See full details in [`iti-open-source-2024/`](./certificates/iti-open-source-2024/)
+
 
 ---
 
