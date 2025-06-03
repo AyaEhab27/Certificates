@@ -26,7 +26,7 @@ Each certification is stored in its own folder with any related documents, such 
 - **Description:**  
   Completed foundational UX training covering  **design thinking, user journey mapping, accessibility**, and **basic interaction design principles**.  
 
-📁 See full details in [`mahara-tech_Ux fudamentals/`](./certificates/mahara-tech_Ux fudamentals/)
+📁 See full details in [`mahara-tech_ux-fundamentals/`](./certificates/mahara-tech_ux-fundamentals/Course_Certificate_En.pdf)
 
 ### 3. **UI/UX Designer**  
 - **Issuing Organization:**  Sprints
