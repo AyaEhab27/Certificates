@@ -20,22 +20,22 @@ Each certification is stored in its own folder with any related documents, such 
 📁 See full details in [`iti-open-source-2024/`](./certificates/iti-open-source-2024/)
 
 
-### 2. **UX Design Fundamentals **  
+### 2. **UX Design Fundamentals**  
 - **Issuing Organization:** Mahara-Tech
 - **Date Completed:** June 2024  
 - **Description:**  
   Completed foundational UX training covering  **design thinking, user journey mapping, accessibility**, and **basic interaction design principles**.  
 
-📁 See full details in [`mahara-tech_Ux fudamentals/`](./certificates/mahara-tech_Ux fudamentals/)
+📁 See full details in [`mahara-tech_Ux fudamentals/`](./certificates/mahara-tech_Ux fudamentals//Course_Certificate_En.pdf/)
 
-### 3. **UI/UX Designer **  
+### 3. **UI/UX Designer**  
 - **Issuing Organization:**  Sprints
 - **Date Completed:** June 2024  
 - **Description:**  
  Practical training on the complete  **UI/UX design lifecycle**, including **user research, personas, wireframing, UI design with Figma**, and **usability testing**.  
  Focused on creating accessible and user-centered interfaces.
 
-📁 See full details in [`sprints_Ui-Ux/`](./certificates/sprints_Ui-Ux/)
+📁 See full details in [`sprints_Ui-Ux/`](./certificates/sprints_Ui-Ux/ui_ux.pdf/)
 
 
 ---
