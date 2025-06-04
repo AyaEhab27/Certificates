@@ -38,6 +38,15 @@ Each certification is stored in its own folder with any related documents, such 
 📁 See full details in [`sprints_Ui-Ux/`](./certificates/sprints_Ui-Ux/ui_ux.pdf/)
 
 
+### 4. **Digital Marketing**  
+- **Issuing Organization:**  Sprints
+- **Date Completed:** June 2024  
+- **Description:**  
+ Completed foundational digital marketing training covering foundations of marketing, digital marketing channels, and content creation.
+
+📁 See full details in [`certificates/Digital_Marketing/digital_marketing.pdf/`](./certificates/Digital_Marketing/digital_marketing.pdf/)
+
+
 ---
 
 ## 📈 Planned Additions
